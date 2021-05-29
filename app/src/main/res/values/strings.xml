@@ -5,6 +5,11 @@
     <string name="Name">Name</string>
     <string name="checkbox">CheckBox</string>
     <string name="toggleButton">ToggleButton</string>
-    <string name="JustText">JustText</string>
-    <string name="PersonNameText">PersonNameText</string>
+    <string name="editTextTextPersonName2">JustText</string>
+    <string name="editTextTextPersonName3">PersonNameText</string>
+    <string name="EnterPassword">EnterPassword</string>
+    <string name="EnterEMail">EnterEMail</string>
+    <string name="EnterPhoneNumber">EnterPhoneNumber</string>
+    <string name="EnterTime">EnterTime</string>
+    <string name="EnterNumber">EnterNumber</string>
 </resources>
