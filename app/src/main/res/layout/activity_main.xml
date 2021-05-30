@@ -24,9 +24,10 @@
         tools:ignore="LabelFor" />
 
     <Button
+        android:id="@+id/buttonToOtherActivity"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="@string/button"
+        android:text="@string/buttonToOtherActivity"
         android:textColor="@color/lime"
         android:textColorHighlight="@color/black"
         android:textSize="45sp" />
